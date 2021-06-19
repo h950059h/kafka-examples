@@ -27,10 +27,10 @@
     </repositories>
 
     <properties>
-        <kafka.version>0.8.2.1</kafka.version>
+        <kafka.version>0.10.0.0</kafka.version>
         <kafka.scala.version>2.10</kafka.scala.version>
         <confluent.version>1.0</confluent.version>
-        <avro.version>1.7.7</avro.version>
+        <avro.version>1.10.0</avro.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
